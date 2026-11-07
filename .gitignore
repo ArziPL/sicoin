@@ -1,0 +1,13 @@
+# Build output
+build/
+out/
+
+# Local CMake / IDE files
+CMakeUserPresets.json
+*.user
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+
+# Lecturer's material (don't redistribute)
+lab1To.pdf
